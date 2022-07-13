@@ -1159,7 +1159,7 @@
 
   (footprint "footprints:PinHeader_2x03_P2.54mm_Vertical" (layer "F.Cu")
     (tedit 60FA10EC) (tstamp 483bd390-7887-4119-854a-acc24f990177)
-    (at 119.38 134.62 90)
+    (at 127 134.62 90)
     (descr "Through hole straight pin header, 2x03, 2.54mm pitch, double rows")
     (tags "Through hole pin header THT 2x03 2.54mm double row")
     (property "Digikey PN" "S2011EC-03-ND")
