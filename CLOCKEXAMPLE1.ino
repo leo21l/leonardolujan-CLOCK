@@ -1,12 +1,3 @@
-/***********************************************************************
-Mini Clock v1.0, Jul 2014 by Nick Hall
-Distributed under the terms of the GPL.
-For help on how to build the clock see my blog:
-http://123led.wordpress.com/
-Tested on IDE v1.6.5 
-small changes by Nicu FLORICA (niq_ro) - 14.12.2017, Craiova - Romania
-http://www.tehnic.go.ro
-***********************************************************************/
 
 //include libraries:
 #include "LedControl.h"
